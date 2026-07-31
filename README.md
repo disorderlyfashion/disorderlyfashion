@@ -8,7 +8,7 @@
 <p align="center">
 <img width="318" height="43" alt="image" src="https://github.com/user-attachments/assets/d05e7920-29d7-4779-ae14-d0353e7d0bcb" /> 
 <p align="center">
-<a href="https://github.com/fans-town">@pt-hall-of-media</a>
+<a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a>
   
 <p align="center">
 <img width="271" height="43" alt="image" src="https://github.com/user-attachments/assets/70cff1d8-1040-425f-8fa1-ca12ebd6adda" />
