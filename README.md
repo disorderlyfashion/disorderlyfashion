@@ -1,8 +1,6 @@
 <p align="center"><img  src="https://komarev.com/ghpvc/?username=disorderlyfashion&label=stalkers&color=a90522">
 <p align="center">
-.
-.
-.
+. . .
 
 
 <p align="center">
@@ -16,8 +14,8 @@
 <a href="https://github.com/fans-town">@fans-town</a>
 
 <p align="center">
-<img width="495" height="33" alt="image" src="https://github.com/user-attachments/assets/a8b7c736-acb0-41dc-9aed-8135924f4028" />
-<img width="328" height="28" alt="image" src="https://github.com/user-attachments/assets/e7611669-f69b-45ea-9a39-ea8052ee84a3" />
+<img width="486" height="22" alt="image" src="https://github.com/user-attachments/assets/f02fb416-b543-48e2-9b43-207078dea1e2" />
+<img width="345" height="26" alt="image" src="https://github.com/user-attachments/assets/a72fd0ed-14e4-4f66-b16c-952f6648bd25" />
 <p align="center">
 <a href="https://github.com/pt-medals">@pt-medals</a>
   
