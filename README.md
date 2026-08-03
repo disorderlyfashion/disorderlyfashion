@@ -21,7 +21,7 @@
 <p align="center">
 <img width="451" height="35" alt="image" src="https://github.com/user-attachments/assets/0ba7fa97-8cfa-42bb-b881-412c2a7e7d6f" />
 <p align="center">
-<a href="https://github.com/ponytownyumeshippers">@YUME-TOWN</a>
+<a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a>
 
 <p align="center">
 <img width="486" height="22" alt="image" src="https://github.com/user-attachments/assets/f02fb416-b543-48e2-9b43-207078dea1e2" />
