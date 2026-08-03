@@ -9,6 +9,11 @@
 <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a>
 
 <p align="center">
+<img width="329" height="27" alt="image" src="https://github.com/user-attachments/assets/37696abd-05d3-4c5a-af34-67b1095e1788" />
+<p align="center">
+<a href="https://github.com/pt-nominations">@pt-nominations</a>
+
+<p align="center">
 <img width="360" height="31" alt="image" src="https://github.com/user-attachments/assets/3fd18480-2dad-4b2d-aaa5-fd2d749afd38" />
 <p align="center">
 <a href="https://github.com/ponychievements">@ponychievements</a>
