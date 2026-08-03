@@ -1,6 +1,6 @@
 <p align="center"><img  src="https://komarev.com/ghpvc/?username=disorderlyfashion&label=stalkers&color=a90522">
 <p align="center">
-**. . .**
+. . .
 
 
 <p align="center">
