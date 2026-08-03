@@ -29,8 +29,8 @@
 <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a>
 
 <p align="center">
-<img width="486" height="22" alt="image" src="https://github.com/user-attachments/assets/f02fb416-b543-48e2-9b43-207078dea1e2" />
-<img width="345" height="26" alt="image" src="https://github.com/user-attachments/assets/a72fd0ed-14e4-4f66-b16c-952f6648bd25" />
+<img width="486" height="21" alt="image" src="https://github.com/user-attachments/assets/51cb8e1e-7334-4ac8-81c6-a46b1d1ea541" />
+<img width="359" height="23" alt="image" src="https://github.com/user-attachments/assets/666ff9eb-802c-4501-be54-0b4a93d25126" />
 <p align="center">
 <a href="https://github.com/pt-medals">@pt-medals</a>
   
