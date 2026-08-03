@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img width="318" height="43" alt="image" src="https://github.com/user-attachments/assets/d05e7920-29d7-4779-ae14-d0353e7d0bcb" /> 
+<img width="303" height="24" alt="image" src="https://github.com/user-attachments/assets/6eb2335f-0601-4e04-b482-0f217878d0bb" />
 <p align="center">
 <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a>
 
