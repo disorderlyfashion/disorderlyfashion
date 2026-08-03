@@ -7,12 +7,17 @@
 <img width="318" height="43" alt="image" src="https://github.com/user-attachments/assets/d05e7920-29d7-4779-ae14-d0353e7d0bcb" /> 
 <p align="center">
 <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a>
-  
+
+<p align="center">
+<img width="360" height="31" alt="image" src="https://github.com/user-attachments/assets/3fd18480-2dad-4b2d-aaa5-fd2d749afd38" />
+<p align="center">
+<a href="https://github.com/ponychievements">@ponychievements</a>
+
 <p align="center">
 <img width="350" height="33" alt="image" src="https://github.com/user-attachments/assets/4d1f6e65-ba97-4864-b925-c55a755a5d73" />
 <p align="center">
 <a href="https://github.com/pt-fashion">@pt-fashion</a>
-  
+
 <p align="center">
 <img width="271" height="43" alt="image" src="https://github.com/user-attachments/assets/70cff1d8-1040-425f-8fa1-ca12ebd6adda" />
 <p align="center">
