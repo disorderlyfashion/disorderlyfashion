@@ -7,6 +7,10 @@
 <p align="center">
 <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>
 
+<p align="center">
+<img width="303" height="26" alt="image" src="https://github.com/user-attachments/assets/46828362-c155-48e6-9562-6a3110f3c711" />
+<p align="center">
+<a href="https://github.com/title-town">@title-town</a>
 
 <p align="center">
 <img width="303" height="24" alt="image" src="https://github.com/user-attachments/assets/6eb2335f-0601-4e04-b482-0f217878d0bb" />
