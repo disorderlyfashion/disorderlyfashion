@@ -28,6 +28,11 @@
 <a href="https://github.com/ponychievements">@ponychievements</a>
 
 <p align="center">
+<img width="365" height="31" alt="image" src="https://github.com/user-attachments/assets/700cbfb7-7617-4b18-8c3c-c6a10efb1432" />
+<p align="center">
+<a href="https://github.com/charactersofpt">@charactersofpt</a>
+
+<p align="center">
 <img width="350" height="33" alt="image" src="https://github.com/user-attachments/assets/4d1f6e65-ba97-4864-b925-c55a755a5d73" />
 <p align="center">
 <a href="https://github.com/pt-fashion">@pt-fashion</a>
