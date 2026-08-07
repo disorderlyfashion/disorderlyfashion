@@ -38,6 +38,11 @@
 <a href="https://github.com/pt-fashion">@pt-fashion</a>
 
 <p align="center">
+<img width="378" height="26" alt="image" src="https://github.com/user-attachments/assets/81eaa290-efd6-4284-8f67-964e260be9d0" />
+<p align="center">
+<a href="https://github.com/ponytown-nominations">@ponytown-nominations</a>
+
+<p align="center">
 <img width="271" height="43" alt="image" src="https://github.com/user-attachments/assets/70cff1d8-1040-425f-8fa1-ca12ebd6adda" />
 <p align="center">
 <a href="https://github.com/fans-town">@fans-town</a>
