@@ -33,6 +33,11 @@
 <a href="https://github.com/charactersofpt">@charactersofpt</a>
 
 <p align="center">
+<img width="360" height="25" alt="image" src="https://github.com/user-attachments/assets/991774d9-65f4-4203-9eef-a837845e1330" />
+<p align="center">
+<a href="https://github.com/cosplaytown">@cosplaytown</a>
+
+<p align="center">
 <img width="350" height="33" alt="image" src="https://github.com/user-attachments/assets/4d1f6e65-ba97-4864-b925-c55a755a5d73" />
 <p align="center">
 <a href="https://github.com/pt-fashion">@pt-fashion</a>
