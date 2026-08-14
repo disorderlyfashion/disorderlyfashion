@@ -33,6 +33,11 @@
 <img width="365" height="31" alt="image" src="https://github.com/user-attachments/assets/700cbfb7-7617-4b18-8c3c-c6a10efb1432" />
 
 <p align="center">
+<a href="https://github.com/ponytowncosplayers">@ponytowncosplayers</a>
+<p align="center">
+<img width="336" height="23" alt="image" src="https://github.com/user-attachments/assets/c349a144-d651-4e2b-9a2c-c80376e9845b" />
+
+<p align="center">
 <a href="https://github.com/cosplaytown">@cosplaytown</a>
 <p align="center">
 <img width="360" height="25" alt="image" src="https://github.com/user-attachments/assets/991774d9-65f4-4203-9eef-a837845e1330" />
