@@ -3,82 +3,82 @@
 . . .
 
 <p align="center">
-<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>
+<a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a>
 <p align="center">
 <img width="346" height="26" alt="image" src="https://github.com/user-attachments/assets/98cce39a-7221-4902-847b-f6c3b167e6ac" />
 
 <p align="center">
-<a href="https://github.com/title-town">@title-town</a>
+<a href="https://github.com/title-town">title-town</a>
 <p align="center">
 <img width="303" height="26" alt="image" src="https://github.com/user-attachments/assets/46828362-c155-48e6-9562-6a3110f3c711" />
 
 <p align="center">
-<a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a>
+<a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a>
 <p align="center">
 <img width="303" height="24" alt="image" src="https://github.com/user-attachments/assets/6eb2335f-0601-4e04-b482-0f217878d0bb" />
 
 <p align="center">
-<a href="https://github.com/pt-nominations">@pt-nominations</a>
+<a href="https://github.com/pt-nominations">pt-nominations</a>
 <p align="center">
 <img width="329" height="27" alt="image" src="https://github.com/user-attachments/assets/37696abd-05d3-4c5a-af34-67b1095e1788" />
 
 <p align="center">
-<a href="https://github.com/ponychievements">@ponychievements</a>
+<a href="https://github.com/ponychievements">ponychievements</a>
 <p align="center">
 <img width="360" height="31" alt="image" src="https://github.com/user-attachments/assets/3fd18480-2dad-4b2d-aaa5-fd2d749afd38" />
 
 <p align="center">
-<a href="https://github.com/charactersofpt">@charactersofpt</a>
+<a href="https://github.com/charactersofpt">charactersofpt</a>
 <p align="center">
 <img width="365" height="31" alt="image" src="https://github.com/user-attachments/assets/700cbfb7-7617-4b18-8c3c-c6a10efb1432" />
 
 <p align="center">
-<a href="https://github.com/ponytowncosplayers">@ponytowncosplayers</a>
+<a href="https://github.com/ponytowncosplayers">ponytowncosplayers</a>
 <p align="center">
 <img width="336" height="23" alt="image" src="https://github.com/user-attachments/assets/c349a144-d651-4e2b-9a2c-c80376e9845b" />
 
 <p align="center">
-<a href="https://github.com/cosplaytown">@cosplaytown</a>
+<a href="https://github.com/cosplaytown">cosplaytown</a>
 <p align="center">
 <img width="360" height="25" alt="image" src="https://github.com/user-attachments/assets/991774d9-65f4-4203-9eef-a837845e1330" />
 
 <p align="center">
-<a href="https://github.com/pt-fashion">@pt-fashion</a>
+<a href="https://github.com/pt-fashion">pt-fashion</a>
 <p align="center">
 <img width="350" height="33" alt="image" src="https://github.com/user-attachments/assets/4d1f6e65-ba97-4864-b925-c55a755a5d73" />
 
 <p align="center">
-<a href="https://github.com/pt-contributers">@pt-contributers</a>
+<a href="https://github.com/pt-contributers">pt-contributers</a>
 <p align="center">
 <img width="296" height="22" alt="image" src="https://github.com/user-attachments/assets/f1c9aba4-6bbc-408c-93ae-43f3a23c2c6a" />
 
 <p align="center">
-<a href="https://github.com/ponytown-nominations">@ponytown-nominations</a>
+<a href="https://github.com/ponytown-nominations">ponytown-nominations</a>
 <p align="center">
 <img width="378" height="26" alt="image" src="https://github.com/user-attachments/assets/81eaa290-efd6-4284-8f67-964e260be9d0" />
 
 <p align="center">
-<a href="https://github.com/fans-town">@fans-town</a>
+<a href="https://github.com/fans-town">fans-town</a>
 <p align="center">
 <img width="281" height="19" alt="image" src="https://github.com/user-attachments/assets/cc9d98b8-fca0-44db-9750-050123f5fae1" />
 
 <p align="center">
-<a href="https://github.com/ship-town">@ship-town</a>
+<a href="https://github.com/ship-town">ship-town</a>
 <p align="center">
 <img width="406" height="25" alt="image" src="https://github.com/user-attachments/assets/cd4d748d-44f0-414b-9520-d980ff3f559e" />
 
 <p align="center">
-<a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a>
+<a href="https://github.com/ponytownyumeshippers">ponytownyumeshippers</a>
 <p align="center">
 <img width="451" height="35" alt="image" src="https://github.com/user-attachments/assets/0ba7fa97-8cfa-42bb-b881-412c2a7e7d6f" />
 
 <p align="center">
-<a href="https://github.com/ponytown-yumes">@ponytown-yumes</a>
+<a href="https://github.com/ponytown-yumes">ponytown-yumes</a>
 <p align="center">
 <img width="436" height="22" alt="image" src="https://github.com/user-attachments/assets/f9a4b62f-6bde-44b3-b392-e0bcdf8dde99" />
 
 <p align="center">
-<a href="https://github.com/pt-medals">@pt-medals</a> & <a href="https://github.com/pt-medals2">@pt-medals2</a>
+<a href="https://github.com/pt-medals">pt-medals</a> & <a href="https://github.com/pt-medals2">pt-medals2</a>
 <p align="center">
 <img width="456" height="21" alt="image" src="https://github.com/user-attachments/assets/51cb8e1e-7334-4ac8-81c6-a46b1d1ea541" /> <img width="329" height="23" alt="image" src="https://github.com/user-attachments/assets/666ff9eb-802c-4501-be54-0b4a93d25126" />
 
