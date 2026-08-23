@@ -58,6 +58,11 @@
 <img width="378" height="26" alt="image" src="https://github.com/user-attachments/assets/81eaa290-efd6-4284-8f67-964e260be9d0" />
 
 <p align="center">
+<a href="https://github.com/style-town">style-town</a>
+<p align="center">
+<img width="365" height="19" alt="image" src="https://github.com/user-attachments/assets/c28df839-595f-416c-b393-f0e9f0aaa51c" />
+
+<p align="center">
 <a href="https://github.com/character-town">character-town</a>
 <p align="center">
 <img width="353" height="20" alt="image" src="https://github.com/user-attachments/assets/28706ce7-ae18-4029-9cea-fd34536819d3" />
