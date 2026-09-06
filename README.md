@@ -73,6 +73,11 @@
 <img width="281" height="19" alt="image" src="https://github.com/user-attachments/assets/cc9d98b8-fca0-44db-9750-050123f5fae1" />
 
 <p align="center">
+<a href="https://github.com/pt-heavyfictkin">pt-heavyfictkin</a>
+<p align="center">
+<img width="419" height="28" alt="image" src="https://github.com/user-attachments/assets/21a2900c-9b84-4ebc-ad75-ebd5ceb304d6" />
+
+<p align="center">
 <a href="https://github.com/ship-town">ship-town</a>
 <p align="center">
 <img width="406" height="25" alt="image" src="https://github.com/user-attachments/assets/cd4d748d-44f0-414b-9520-d980ff3f559e" />
