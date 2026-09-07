@@ -48,6 +48,11 @@
 <img width="350" height="33" alt="image" src="https://github.com/user-attachments/assets/4d1f6e65-ba97-4864-b925-c55a755a5d73" />
 
 <p align="center">
+<a href="https://github.com/Ponytowns-rewards">Ponytowns-rewards</a>
+<p align="center">
+<img width="273" height="19" alt="image" src="https://github.com/user-attachments/assets/9e5e12f1-8e70-4bd5-879b-3618f418eb5e" />
+
+<p align="center">
 <a href="https://github.com/pt-contributers">pt-contributers</a>
 <p align="center">
 <img width="296" height="22" alt="image" src="https://github.com/user-attachments/assets/f1c9aba4-6bbc-408c-93ae-43f3a23c2c6a" />
