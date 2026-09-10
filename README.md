@@ -73,6 +73,11 @@
 <img width="353" height="20" alt="image" src="https://github.com/user-attachments/assets/28706ce7-ae18-4029-9cea-fd34536819d3" />
 
 <p align="center">
+<a href="https://github.com/pt-ship-nominations">pt-ship-nominations</a>
+<p align="center">
+<img width="416" height="20" alt="image" src="https://github.com/user-attachments/assets/7e5fdf2d-8a90-4539-adbc-a80978762905" />
+
+<p align="center">
 <a href="https://github.com/fans-town">fans-town</a>
 <p align="center">
 <img width="281" height="19" alt="image" src="https://github.com/user-attachments/assets/cc9d98b8-fca0-44db-9750-050123f5fae1" />
