@@ -83,6 +83,11 @@
 <img width="416" height="20" alt="image" src="https://github.com/user-attachments/assets/7e5fdf2d-8a90-4539-adbc-a80978762905" />
 
 <p align="center">
+<a href="https://github.com/choco-town">choco-town</a>
+<p align="center">
+<img width="274" height="27" alt="image" src="https://github.com/user-attachments/assets/2af4ca4d-c271-4672-b6bf-61d0b0d375ef" />
+
+<p align="center">
 <a href="https://github.com/kaotown">kaotown</a>
 <p align="center">
 <img width="356" height="23" alt="image" src="https://github.com/user-attachments/assets/ff35da34-16f6-44a8-8643-13b8f8a3f5a6" />
