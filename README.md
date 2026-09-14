@@ -1,7 +1,12 @@
 <p align="center"><img  src="https://komarev.com/ghpvc/?username=disorderlyfashion&label=stalkers&color=a90522">
+
+<p align="center">
+PT's <a href="https://www.youtube.com/watch?v=jMxU2ToSunY">Miss Murder by AFI</a> & <a href="https://www.youtube.com/watch?v=LpC0SKU6O00">Figure.09 by Linkin Park</a> <- verified by <a href="https://github.com/music-town">music-town</a>
+
 <p align="center">
 . . .
 
+  ㅤㅤㅤ
 <p align="center">
 <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a>
 <p align="center">
