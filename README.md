@@ -128,6 +128,11 @@ PT's <a href="https://www.youtube.com/watch?v=jMxU2ToSunY">Miss Murder by AFI</a
 <img width="436" height="22" alt="image" src="https://github.com/user-attachments/assets/f9a4b62f-6bde-44b3-b392-e0bcdf8dde99" />
 
 <p align="center">
+<a href="https://github.com/daggerstruckmage">daggerstruckmage</a>
+<p align="center">
+<img width="227" height="18" alt="image" src="https://github.com/user-attachments/assets/5b867aca-8fe0-461e-9c17-a2d4313c49ba" /> <img width="320" height="23" alt="image" src="https://github.com/user-attachments/assets/eec40eee-4445-45ed-88ce-c4e23977d2b6" />
+
+<p align="center">
 <a href="https://github.com/pt-loveforfictional">pt-loveforfictional</a>
 <p align="center">
 <img width="370" height="20" alt="image" src="https://github.com/user-attachments/assets/2ac3e985-c7eb-4f59-85bd-d5e9cee6c342" /> <img width="395" height="20" alt="image" src="https://github.com/user-attachments/assets/b3428240-c3f0-4742-a012-5694a9728f6c" />
